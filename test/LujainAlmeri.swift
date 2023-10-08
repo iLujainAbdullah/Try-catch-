@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct LujainAlmeri: View {
     var body: some View {
         VStack {
             Image("c")
@@ -27,37 +27,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
-}
-//
-//  ContentView.swift
-//  Riyadh
-//
-//  Created by Lujain Abdullah Halabi Almeri on 23/03/1445 AH.
-//
-
-import SwiftUI
-
-struct test: View {
-    var body: some View {
-        VStack {
-            Image("c")
-                .resizable()
-                .frame(width: 100, height: 100)
-                .cornerRadius(50)
-            
-                Text("Riyadh").font(.title).frame(maxWidth: .infinity, alignment: .leading)
-
-                                .frame(alignment: .top)
-
-                Text("Capital of Saudi Arabia")
-                    .foregroundStyle(.gray).frame(maxWidth: .infinity, alignment: .leading)
-            
-        }
-        .padding()
-    }
-}
-
-#Preview {
-    ContentView()
+    LujainAlmeri()
 }
