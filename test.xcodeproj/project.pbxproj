@@ -11,6 +11,7 @@
 		377555E32AD28D750017A42F /* LujainAlmeri.swift in Sources */ = {isa = PBXBuildFile; fileRef = 377555E22AD28D750017A42F /* LujainAlmeri.swift */; };
 		377555E52AD28D770017A42F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 377555E42AD28D770017A42F /* Assets.xcassets */; };
 		377555E82AD28D770017A42F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 377555E72AD28D770017A42F /* Preview Assets.xcassets */; };
+		4B0FBB302AD3E9840090FA99 /* Reem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B0FBB2F2AD3E9840090FA99 /* Reem.swift */; };
 		A4F5D1F72AD2B76B00C9840A /* Amal.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F5D1F62AD2B76B00C9840A /* Amal.swift */; };
 		F05AB7422AD304DE007442D5 /* Ahlam.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05AB7412AD304DE007442D5 /* Ahlam.swift */; };
 /* End PBXBuildFile section */
@@ -21,6 +22,7 @@
 		377555E22AD28D750017A42F /* LujainAlmeri.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LujainAlmeri.swift; sourceTree = "<group>"; };
 		377555E42AD28D770017A42F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		377555E72AD28D770017A42F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4B0FBB2F2AD3E9840090FA99 /* Reem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reem.swift; sourceTree = "<group>"; };
 		A4F5D1F62AD2B76B00C9840A /* Amal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Amal.swift; sourceTree = "<group>"; };
 		F05AB7412AD304DE007442D5 /* Ahlam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ahlam.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +60,7 @@
 				377555E02AD28D750017A42F /* testApp.swift */,
 				A4F5D1F62AD2B76B00C9840A /* Amal.swift */,
 				377555E22AD28D750017A42F /* LujainAlmeri.swift */,
+				4B0FBB2F2AD3E9840090FA99 /* Reem.swift */,
 				F05AB7412AD304DE007442D5 /* Ahlam.swift */,
 				377555E42AD28D770017A42F /* Assets.xcassets */,
 				377555E62AD28D770017A42F /* Preview Content */,
@@ -146,6 +149,7 @@
 				377555E32AD28D750017A42F /* LujainAlmeri.swift in Sources */,
 				F05AB7422AD304DE007442D5 /* Ahlam.swift in Sources */,
 				377555E12AD28D750017A42F /* testApp.swift in Sources */,
+				4B0FBB302AD3E9840090FA99 /* Reem.swift in Sources */,
 				A4F5D1F72AD2B76B00C9840A /* Amal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
